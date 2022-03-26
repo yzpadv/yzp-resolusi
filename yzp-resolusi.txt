@@ -2,3 +2,4 @@ YZP Resolusi
 -Konsisten learn coding 8 jam sehari
 -Kosisten learn HTML,CSS,JS 4 jam sehari
 -Konsisten learn React JS
+-Konsisten create mini project javascript
